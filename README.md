@@ -16,5 +16,5 @@ Effective energy management is critical for DC microgrids (DCMG) where bus volta
 
 2.LabVIEW
 
-# For more info, contact:
+# For more info, Contact:
 sujatha.b@bvrithyderabad.edu.in
