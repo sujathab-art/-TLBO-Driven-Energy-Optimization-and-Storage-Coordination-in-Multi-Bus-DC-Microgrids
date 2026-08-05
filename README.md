@@ -4,7 +4,6 @@
 ## Authors and Affiliations
 
 **Sujatha Banka**, Research Scholar, Department of Electrical and Electronics Engineering, Jawaharlal Nehru Technological University Anantapur (JNTUA), Andhra Pradesh, India; Associate Professor, Department of Electrical and Electronics Engineering, BVRIT Hyderabad College of Engineering for Women, Hyderabad, Telangana, India.
-
 **D. V. Ashok Kumar**, Professor, Department of Electrical and Electronics Engineering, RGM College of Engineering and Technology, Nandyala, Andhra Pradesh, India.
 
 ## Abstract
