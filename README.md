@@ -1,5 +1,5 @@
-TLBO-Driven Energy Optimization and Storage Coordination in Multi-Bus DC Microgrids
-
+ TLBO-Driven Energy Optimization and Storage Coordination in Multi-Bus DC Microgrids
+# Manuscript ID: [IEEE LAT AM T] Submission ID: 10462
 Manuscript ID: [IEEE LAT AM T] Submission ID: 10462
 
 Authors and Affiliations:
