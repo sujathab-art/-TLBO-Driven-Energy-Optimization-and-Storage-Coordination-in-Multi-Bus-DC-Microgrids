@@ -53,11 +53,11 @@ Contains MATLAB script/function  used for implementation and analysis of the pro
 
 ## How to Run the Simulation
 
-First, run the Plant Model to initialize and execute the complete microgrid system.
-After the Plant Model is running, open the Control Block named “Co-operative Control.”
-Inside the Co-operative Control block, locate the MATLAB Function block.
-Run the MATLAB Function to execute the proposed control algorithm.
-Observe the corresponding simulation results and waveforms.
+1. First, run the Plant Model to initialize and execute the complete microgrid system.
+2. After the Plant Model is running, open the Control Block named “Co-operative Control.”
+3. Inside the Co-operative Control block, locate the MATLAB Function block.
+4. Run the MATLAB Function to execute the proposed control algorithm.
+5. Observe the corresponding simulation results and waveforms.
 
 # For more info, Contact:
 sujatha.b@bvrithyderabad.edu.in
