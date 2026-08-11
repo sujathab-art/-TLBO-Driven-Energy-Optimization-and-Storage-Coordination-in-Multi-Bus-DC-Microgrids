@@ -43,10 +43,13 @@ Coordinated battery–supercapacitor power allocation
 
 The exact mathematical formulation and parameter values should be taken from the corresponding manuscript and simulation files included in this repository.
 
-## Software and Hardware Requirements
+## Software  Requirements
 1.MATLAB 2023b or later
 
-2.LabVIEW
+The exact MATLAB release and toolbox requirements should be checked in the individual scripts and model files.
+
+## MATLAB_Code
+Contains MATLAB scripts/functions used for implementation and analysis of the proposed TLBO-based EMS.
 
 # For more info, Contact:
 sujatha.b@bvrithyderabad.edu.in
