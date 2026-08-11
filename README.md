@@ -27,6 +27,22 @@ Evaluate the EMS under photovoltaic intermittency and load variations.
 
 Develop a computationally strategy suitable for real-time-oriented implementation.
 
+## Optimization Objectives
+
+The TLBO optimization considers:
+
+DC-bus voltage deviation
+
+Power-balance error
+
+Battery/supercapacitor SoC disparity
+
+Supercapacitor over-utilization
+
+Coordinated battery–supercapacitor power allocation
+
+The exact mathematical formulation and parameter values should be taken from the corresponding manuscript and simulation files included in this repository.
+
 ## Software and Hardware Requirements
 1.MATLAB 2023b or later
 
