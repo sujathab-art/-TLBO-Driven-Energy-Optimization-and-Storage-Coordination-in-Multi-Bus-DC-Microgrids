@@ -49,7 +49,7 @@ MATLAB 2023b or later
 The exact MATLAB release and toolbox requirements should be checked in the individual scripts and model files.
 
 ## MATLAB_Code
-Contains MATLAB script  used for implementation and analysis of the proposed TLBO-based EMS.
+Contains MATLAB script/function  used for implementation and analysis of the proposed TLBO-based EMS.
 
 # For more info, Contact:
 sujatha.b@bvrithyderabad.edu.in
